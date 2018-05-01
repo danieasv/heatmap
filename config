@@ -2,4 +2,4 @@ Host github.com
 Hostname github.com
 User danieasv
 PubKeyAuthentication yes
-IdentityFile ~/.ssh/id_rsa
+IdentityFile ~/.ssh/key
